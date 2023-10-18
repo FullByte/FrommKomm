@@ -1,12 +1,12 @@
 entries:
   - title: info
     entries:
-      - title:  "(ﾟ◥益◤ﾟ) F̻͚͍̥̼r͋ͣ̾ͬo͔͕̳̟̖̿m̲̼̥m͎̯͙̼ ͈̫̥͔̩ͤK̉ͪo͉̗͓m͍̹̝͓̂̅ͫ̒m̜̣͙ͦͮͧ̂  (ʘ言ʘ╬)"
-      - title: ""
-      - title: ""
-      - title:  "¯\\_(ツ)_/¯"
+      - title: "Workflow: Es gibt was neues -> Ich lese es -> Ich blogge dazu"
+      - title: "Warnung: Eigene Meinung wird gebildet ¯\\_(ツ)_/¯"
       - title: blog source
         url: https://github.com/FullByte/FrommKomm
+      - title: contact
+        url: https://social.lol/@yolo
       - title: rss feed
         url: feed.xml
 
