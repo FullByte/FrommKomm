@@ -1,7 +1,20 @@
 ---
 title: "Hello World"
 date: 2023-10-18
-category: example2
+category: code
 ---
 
-Hello World :)
+```ruby
+require 'rouge'
+
+# make some nice lexed html
+source = File.read('/etc/bashrc')
+formatter = Rouge::Formatters::HTML.new
+lexer = Rouge::Lexers::Shell.new
+formatter.format(lexer.lex(source))
+
+# Get some CSS
+Rouge::Themes::Base16.mode(:light).render(scope: '.highlight')
+# Or use Theme#find with string input
+Rouge::Theme.find('base16.light').render(scope: '.highlight')
+```

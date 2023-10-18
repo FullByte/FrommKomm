@@ -16,3 +16,5 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
+  - jemoji
+  - rouge

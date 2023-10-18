@@ -2,6 +2,7 @@ entries:
   - title: info
     entries:
       - title: "WTF: Nur ein weiterer Blog"
+      - title: "Warum: Tja, isso"
       - title: "Mein Workflow: Es gibt was neues -> Ich lese es -> Ich blogge dazu"
       - title: "Trigger Warnung: Meine Meinung zum Thema wird geäußert ¯\\_(ツ)_/¯"
 
@@ -14,7 +15,7 @@ entries:
 
   - title: links
     entries: 
-      - title: blog source
+      - title: source
         url: https://github.com/FullByte/FrommKomm
       - title: contact
         url: https://social.lol/@yolo
