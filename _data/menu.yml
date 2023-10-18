@@ -1,16 +1,15 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: info
     entries:
-      - title:  "_____  ____   ___   ___ ___  ___ ___ "
+      - title:  " _____  ____   ___   ___ ___  ___ ___ "
       - title:  "|     ||    \ /   \ |   |   ||   |   |"
       - title:  "|   __||  D  )     || _   _ || _   _ |"
       - title:  "|  |_  |    /|  O  ||  \_/  ||  \_/  |"
-      - title:  "|   _] |    \|     ||   |   ||   |   |"
+      - title:  "|   _] |    \\|     ||   |   ||   |   |"
       - title:  "|  |   |  .  \     ||   |   ||   |   |"
       - title:  "|__|   |__|\_|\___/ |___|___||___|___|"
+      - title:  "                                KOMM."
+      - title:  ""
       - title: blog source
         url: https://github.com/FullByte/FrommKomm
       - title: rss feed
