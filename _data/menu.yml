@@ -4,9 +4,17 @@
 entries:
   - title: info
     entries:
-      - title: a personal blog about tech news
-      - title: github repo
+      - title:  _____  ____   ___   ___ ___  ___ ___ 
+      - title:  |     ||    \ /   \ |   |   ||   |   |
+      - title:  |   __||  D  )     || _   _ || _   _ |
+      - title:  |  |_  |    /|  O  ||  \_/  ||  \_/  |
+      - title:  |   _] |    \|     ||   |   ||   |   |
+      - title:  |  |   |  .  \     ||   |   ||   |   |
+      - title:  |__|   |__|\_|\___/ |___|___||___|___|
+      - title: blog source
         url: https://github.com/FullByte/FrommKomm
+      - title: rss feed
+        url: feed.xml
 
   - title: latest posts
     post_list:
@@ -15,13 +23,12 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: other links
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss feed
-    url: feed.xml
+
   
