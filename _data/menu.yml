@@ -1,24 +1,22 @@
 entries:
-  - title: info
-    entries:
-      - title: "WTF: Nur ein weiterer Blog"
-      - title: "Warum: Tja, isso"
-      - title: "Mein Workflow: Es gibt was (für mich) neues -> Ich lese es -> Ich  denke (etwas) nach -> Ich blogge dazu"
-      - title: "Sprache: Standarddeutsch mit leichten ausrutschern"
-      - title: "Trigger Warnung: Meine Meinung zum Thema wird geäußert ¯\\_(ツ)_/¯"
-
-  - title: neuste posts
+  - title: Neuste Posts
     post_list:
       limit: 10
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Siehe Archiv...
       show_more_url: archive.html
 
-  - title: links
+  - title: Mein Workflow
+    entries:
+      - title: "1. Ich lese was (für mich) neues, meist aus der IT/Tech Welt."
+      - title: "2. Ich denke (etwas) nach und bilde mir eine Meinung zum Thema."
+      - title: "3. Ich blogge dazu hier in unregelmäßigen Abständen in Standarddeutsch mit leichten ausrutschern in das Denglische und Gossensprache."
+
+  - title: Links
     entries: 
-      - title: source
+      - title: Quellcode
         url: https://github.com/FullByte/FrommKomm
-      - title: contact
+      - title: Kontakt
         url: https://social.lol/@yolo
-      - title: rss feed
+      - title: RSS Feed
         url: feed.xml
