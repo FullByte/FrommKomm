@@ -1,10 +1,10 @@
 ---
-title: "Hello World"
+title: "Code"
 date: 2023-10-18
 category: code
 ---
 
-```ruby
+{% highlight ruby %}
 require 'rouge'
 
 # make some nice lexed html
@@ -17,4 +17,4 @@ formatter.format(lexer.lex(source))
 Rouge::Themes::Base16.mode(:light).render(scope: '.highlight')
 # Or use Theme#find with string input
 Rouge::Theme.find('base16.light').render(scope: '.highlight')
-```
+{% endhighlight %}
