@@ -2,6 +2,7 @@ title: FrommKomm
 author: 0xfab1
 description: Fromm Kommentiert
 
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
